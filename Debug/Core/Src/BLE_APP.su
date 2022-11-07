@@ -1,0 +1,4 @@
+../Core/Src/BLE_APP.c:11:6:BLE_USART	112	static
+../Core/Src/BLE_APP.c:69:6:BLECommand	16	static
+../Core/Src/BLE_APP.c:84:6:BLE_HW_RSEST	8	static
+../Core/Src/BLE_APP.c:90:6:RYB080E_Init	8	static
